@@ -8,7 +8,7 @@ This project focuses on analyzing telecom customer data and building machine lea
 
 ### **Business Problem**
 
-The telecom industry is highly competitive, and customers frequently switch service providers. Retaining existing customers is more cost-effective than acquiring new ones, making churn prediction a critical business objective. ([GitHub][1])
+The telecom industry is highly competitive, and customers frequently switch service providers. Retaining existing customers is more cost-effective than acquiring new ones, making churn prediction a critical business objective.
 
 The project aims to:
 
@@ -25,7 +25,7 @@ The project explains how churn differs between prepaid and postpaid customers.
 * **Postpaid:** churn is clear when a customer cancels service
 * **Prepaid:** churn is harder to detect because users may stop using services without notice
 
-This makes churn prediction especially important in markets like India where prepaid usage is dominant. ([GitHub][1])
+This makes churn prediction especially important in markets like India where prepaid usage is dominant. 
 
 ---
 
