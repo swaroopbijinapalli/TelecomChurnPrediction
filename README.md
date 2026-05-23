@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This project focuses on analyzing telecom customer data and building machine learning models to identify customers who are likely to churn. The goal is to help telecom companies retain high-value customers by predicting churn risk early and identifying key factors influencing customer behavior. ([GitHub][1])
+This project focuses on analyzing telecom customer data and building machine learning models to identify customers who are likely to churn. The goal is to help telecom companies retain high-value customers by predicting churn risk early and identifying key factors influencing customer behavior. 
 
 ---
 
